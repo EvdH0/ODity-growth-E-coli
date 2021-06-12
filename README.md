@@ -29,7 +29,7 @@ scipy==1.4.1
 To circumvent setting up all the dependencies in a Python environment, a Docker container is supplied on Docker Hub. The following four simple steps are required
 
 1.	To get started download Docker https://docs.docker.com/get-started/
-2.	Pull down this repository using `git clone https://github.com/EvdH0/ODity-growth-Ecoli.git`
+2.	Pull down this repository using `git clone https://github.com/EvdH0/ODity-growth-E-coli.git`
 3.	Download the image `docker pull evdh0/scipy-notebook-odity-ecoli:latest`
 4.	Then use `docker run -p 8888:8888 -v $(pwd):/home/jovyan/work evdh0/scipy-notebook-odity-ecoli` to launch the container and start the Jupyter notebook on your local machine
 5.	Browse to http://127.0.0.1:8888/ and the notebook and data is accessible in the `work` folder
