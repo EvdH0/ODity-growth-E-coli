@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/376319956.svg)](https://zenodo.org/badge/latestdoi/376319956)
 
 # Data analysis of _E. coli_ growth using ODity.bio
 This is the full data analysis accompanying the pre-print _Reconstructing live bacterial densities using non-invasive optical measurements of E. coli_ on _bioRxiv_.
