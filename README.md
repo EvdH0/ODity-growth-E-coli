@@ -6,7 +6,8 @@ GitHub sometimes has trouble rendering Jupyter notebooks, so instead use the onl
 
 
 Publication figures can be found in the `output_figures` folder
-![image](https://user-images.githubusercontent.com/5472957/121781196-eeb6d780-cba3-11eb-8dab-eb9010d4bbff.png)
+![image](https://user-images.githubusercontent.com/5472957/121781228-19089500-cba4-11eb-97e4-21f7ea88c171.png)
+
 
 
 Example of figure 3 from the pre-print.
