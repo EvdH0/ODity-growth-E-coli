@@ -1,8 +1,8 @@
 
 # Data analysis of _E. coli_ growth using ODity.bio
 This is the full data analysis accompanying the pre-print _Reconstructing live bacterial densities using non-invasive optical measurements of E. coli_ on _bioRxiv_.
-The analysis is wrapped in a Jupyter Notebook [ODity growth measurements of Ecoli MG1655](https://nbviewer.jupyter.org/github/EvdH0/ODity-growth-E-coli/blob/main/ODity%20growth%20measurements%20of%20Ecoli%20MG1655.ipynb), which can be viewed with the in-line results in this repository, or ran from beginning-to-end to reproduce the conclusions of the paper. 
-GitHub sometimes has trouble rendering Jupyter notebooks, so instead use the online nbviewer [here](https://nbviewer.jupyter.org/github/EvdH0/ODity-growth-E-coli/blob/main/ODity%20growth%20measurements%20of%20Ecoli%20MG1655.ipynb)
+The analysis is wrapped in a Jupyter Notebook [ODity growth measurements of Ecoli MG1655](https://nbviewer.jupyter.org/github/EvdH0/ODity-growth-E-coli/raw/main/ODity%20growth%20measurements%20of%20Ecoli%20MG1655.ipynb?flush_cache=true), which can be viewed with the in-line results in this repository, or ran from beginning-to-end to reproduce the conclusions of the paper. 
+GitHub sometimes has trouble rendering Jupyter notebooks, so instead use the online nbviewer [here](https://nbviewer.jupyter.org/github/EvdH0/ODity-growth-E-coli/raw/main/ODity%20growth%20measurements%20of%20Ecoli%20MG1655.ipynb?flush_cache=true)
 
 
 Publication figures can be found in the `output_figures` folder
