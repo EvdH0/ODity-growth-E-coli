@@ -1,9 +1,9 @@
 [![DOI](https://zenodo.org/badge/376319956.svg)](https://zenodo.org/badge/latestdoi/376319956)
 
 # Data analysis of _E. coli_ growth using ODity.bio
-This is the full data analysis accompanying the pre-print _Quantifying live bacterial densities using non-invasive optical measurements of E. coli_ on _bioRxiv_.
+This is the full data analysis accompanying the pre-print [_Quantifying live bacterial densities using non-invasive optical measurements of E. coli_](https://doi.org/10.1101/2021.06.12.448182).
 The analysis is wrapped in a Jupyter Notebook [ODity growth measurements of Ecoli MG1655](https://nbviewer.jupyter.org/github/EvdH0/ODity-growth-E-coli/raw/main/ODity%20growth%20measurements%20of%20Ecoli%20MG1655.ipynb?flush_cache=true), which can be viewed with the in-line results in this repository, or ran from beginning-to-end to reproduce the conclusions of the paper. 
-GitHub sometimes has trouble rendering Jupyter notebooks, so instead use the online nbviewer [here](https://nbviewer.jupyter.org/github/EvdH0/ODity-growth-E-coli/raw/main/ODity%20growth%20measurements%20of%20Ecoli%20MG1655.ipynb?flush_cache=true)
+GitHub sometimes has trouble rendering Jupyter notebooks, so instead use the [online nbviewer](https://nbviewer.jupyter.org/github/EvdH0/ODity-growth-E-coli/raw/main/ODity%20growth%20measurements%20of%20Ecoli%20MG1655.ipynb?flush_cache=true).
 
 
 Publication figures can be found in the `output_figures` folder
@@ -28,7 +28,7 @@ scipy==1.4.1
 ```
 
 ### Docker
-To circumvent setting up all the dependencies in a Python environment, a Docker container is supplied on Docker Hub. The following four simple steps are required
+To circumvent setting up all the dependencies in a Python environment, a Docker container is supplied on Docker Hub. The following four simple steps are required:
 
 1.	To get started download Docker https://docs.docker.com/get-started/
 2.	Pull down this repository using `git clone https://github.com/EvdH0/ODity-growth-E-coli.git`
@@ -45,5 +45,7 @@ Apache License, Version 2.0, see `LICENSE`
 The notebook was written by Eric van der Helm.
 
 ## Citation
-XXX 
+
+van der Helm, E. & Redl, S. M. A. [Quantifying live bacterial densities using non-invasive optical measurements of _E. coli_.](https://doi.org/10.1101/2021.06.12.448182) _bioRxiv_ (2021) doi:10.1101/2021.06.12.448182
+
 
